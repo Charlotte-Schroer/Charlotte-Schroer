@@ -12,7 +12,8 @@ Crucially, I am also dedicated to learning to code for **personal projects, deve
 | Category | Details |
 | :--- | :--- |
 | **Current Development** | Developing the **frontend** for a **ticketing application** project using **.NET/ASP.NET** (with C#). Future plans include **AI integration**. |
-| **Upcoming Projects** | Developing a **CRUD API** using **Node.js**. Exploring backend development with **PHP** and the **Laravel** framework. |
+| **Current Development** | Exploring backend development with **PHP** and the **Laravel** framework. |
+| **Upcoming Projects** | Developing a **CRUD API** using **Node.js**. |
 | **Languages & Tools** | C#, JavaScript, HTML5, CSS3, SQL, Basic Java. |
 
 ---
