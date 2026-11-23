@@ -17,7 +17,7 @@ class Charlotte:
     def __init__(self):
         self.role       = "Risk Specialist @ Infrabel"
         self.also       = "ERA-qualified Safety Leadership Trainer"
-        self.studying   = "Bachelor of Applied Computer Science (since 2023)"
+        self.studying   = "Bachelor of Applied Computer Science"
         self.expertise  = ["operational safety", "human factors", "error analysis"]
         self.languages  = {"fluent": ["Dutch", "French", "English"],
                            "conversational": ["German"]}
